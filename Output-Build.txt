@@ -1,0 +1,6 @@
+﻿Build started at 01:56 م...
+1>------ Build started: Project: task.1.todolist, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>task.1.todolist -> C:\Users\Admin\source\repos\task.1.todolist\task.1.todolist\bin\Debug\net8.0\task.1.todolist.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 01:57 م and took 25.548 seconds ==========
